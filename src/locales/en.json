@@ -1,0 +1,37 @@
+{
+    "messages": {
+        "welcome": "Welcome to our shop!",
+        "enterMessage": "Please log in to use the services",
+        "products": "Products list",
+        "filters": "Filters",
+        "empty": "The cart is empty",
+        "total": "Total price"
+    },
+    "actionTitles": {
+        "login": "Login",
+        "logout": "Logout",
+        "addItem": "Add product",
+        "addToCart": "Add to cart",
+        "cancel": "Cancel",
+        "imgSrc": "image source",
+        "titleEn": "title in english",
+        "titleUa": "title in ukrainian",
+        "brand": "brand",
+        "price": "price",
+        "seller": "seller",
+        "link": "link",
+        "back": "Back to products",
+        "delete": "Delete"
+    },
+    "nav": {
+        "main": "Main",
+        "products": "Products"
+    },
+    "filters":{
+        "seller": "Seller",
+        "brand": "Brand",
+        "alphabet":"Alphabetic order",
+        "search": "Search",
+        "clear": "Clear filters"
+    }
+}
